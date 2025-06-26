@@ -1,2 +1,1 @@
-# Droidtrans
-Transgender Android Developer
+
